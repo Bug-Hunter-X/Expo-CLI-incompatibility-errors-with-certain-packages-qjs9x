@@ -1,0 +1,3 @@
+This repository contains examples of uncommon errors that can occur when using Expo CLI, specifically those related to package incompatibilities within the Expo managed workflow.  The `bug.js` file demonstrates code that produces the error, while `bugSolution.js` provides a solution or workaround.  The errors demonstrated include issues with packages such as `react-native-video` and `react-native-background-timer`.
+
+Solutions may include using alternative Expo-compatible packages, ejecting from the managed workflow to a bare React Native project, or using a different approach altogether.  For detailed explanations, refer to the respective files.
